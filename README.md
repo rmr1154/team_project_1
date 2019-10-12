@@ -36,8 +36,8 @@ Questions to answer: Based on metropolitan data, is there a correlation between 
 - /misc/Untitled.ipynb - Temporary workspace for expirements and as a holding spot for content
 ### Final Compilation
 - /Final Draft_Project1_Team1.ipynb
+- /Presentation/Rental Rates and Employment.pptx
 # Resources
-- /Presentation : Location of final PowerPoint
 - /data : location of all the curated datasets
 - /figures : location of all saved plots
 - /maps : location of interactive map exports and demo animations
